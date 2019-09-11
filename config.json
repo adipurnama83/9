@@ -1,0 +1,57 @@
+{
+
+ "Account": {
+     "Username": "xxxxxxxx",
+     "Password": "xxxxxxxx"
+     },
+ "Base Bet": "0.001",
+ "Target Profit": "10.2000000",
+ "Target Win": "2400.00000000",
+ "Lose Target": "0.00065846",
+ "Interval": "8",
+ "Config": [{
+
+     "Bet Set": "1",
+     "Chance": "7",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "5",
+          "Max": "50"
+        },
+     "Bet": "Hi",
+     "If Win": "1",
+     "If Lose": "1.1",
+     "Reset If Win": "1",
+     "Interval": "10"
+     },{
+
+     "Bet Set": "2",
+     "Chance": "15",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "5",
+          "Max": "50"
+        },
+     "Bet": "Hi",
+     "If Win": "1",
+     "If Lose": "1.2",
+     "Reset If Win": "1",
+     "Interval": "10"
+     },{
+
+     "Bet Set": "3",
+     "Chance": "80",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "5",
+          "Max": "50"
+        },
+     "Bet": "Hi",
+     "If Win": "1",
+     "If Lose": "3",
+     "Reset If Win": "1",
+     "Interval": "10"
+     }
+  ]
+
+}
